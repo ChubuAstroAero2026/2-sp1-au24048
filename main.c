@@ -2,8 +2,10 @@
 
 int main()
 {
-  //ここにコードを書く
+  float a;
+  int b;
 
-  
+  printf("a = %f\n");
+ 
   return 0;
 }
