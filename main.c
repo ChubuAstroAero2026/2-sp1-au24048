@@ -5,7 +5,7 @@ int main()
   float a;
   int b;
 
-  printf("a = %f\n");
+  printf("a = %f.b\n");
  
   return 0;
 }
