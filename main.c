@@ -5,8 +5,8 @@ int main()
   float a;
   int b;
   scanf("%f", &a);
-  scanf("%f", &b);
-  printf("%.bf\n", a);
+  scanf("%d", &b);
+  printf("a = %.bf\n", a);
  
   return 0;
 }
