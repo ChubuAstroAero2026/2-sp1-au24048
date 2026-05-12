@@ -6,7 +6,7 @@ int main()
   int b;
   scanf("%f", &a);
   scanf("%d", &b);
-  printf("%.f\n", b, a);
+  printf("%d.%f", b, a);
  
   return 0;
 }
